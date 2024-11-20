@@ -15,3 +15,10 @@
 - NoSQL (MongoDB)
 - SQL (PostgreSQL)
 - [Draw.io](https://draw.io) (for diagrams)
+
+## UI
+Creating MongoDB account and adding `ProductCatalog` database and `Product` collection
+
+![ProductCatalog Database](UI/ProductCatalog_in_mongodb_database.png)
+![Product Collection and Documents](UI/product_collection_with_docs.png)
+![More Documents in Product Collection](UI/more_docs_in_Product_collection.png)

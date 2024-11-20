@@ -2,7 +2,7 @@
 
 ## TechCorp Tech Company
 
-## Task Performed
+## Tasks Performed
 **1. Analyze TechCorp's Existing Table:**
    - The table was normalized to 3NF to reduce redundancy.
    - Design a relational schema from a single-table database.
